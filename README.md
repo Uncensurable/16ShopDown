@@ -7,7 +7,7 @@
   INFECTED SITE: https://ada.org.et/
     SUBDIR: /mh/cgi
   STATUS: CLEANED https://ada.org.et/mh/cgi/pwnedbyinnocence.txt
-  16SHOP PUBLIC KEY ASSOICATED: 16SHORT-EF007DB348
+  16SHOP PUBLIC KEY ASSOCIATED: 16SHORT-EF007DB348
   AUTH SERVER ASSOICATED: 178.128.104.179 (Digital Ocean)
   
 -----------------------------------------------------------------------
