@@ -7,5 +7,5 @@
 |    URL         |    PUBLIC KEY:AUTH IP              |        CURRENT STATUS       | LINK
 |----------------|------------------------------------|-----------------------------|-----------------------------------------------|
 |ada.et.org      |16SHORT-EF007DB348:178.128.104.179  |CLEANED                      | https://ada.org.et/mh/cgi/pwnedbyinnocence.txt
-
+|35.197.223.48   | WEB PROXY                          | SCANNING                    | 35.197.223.48:3306
 
